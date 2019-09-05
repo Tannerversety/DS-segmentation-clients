@@ -1,0 +1,4 @@
+,cluster_num,cluster_annot
+0,0,"Montant moyen, de clients souvent britaniques, très irrégulières, avec peu de transactions redondantes et peu de produits différents par commande"
+1,1,"Montant moyen, de clients souvent britaniques, assez réguliers, de produits plutôt populaires"
+2,2,"Montants plutôt élevés, de clients possiblement étrangers, en plutôt grande quantité, assez irrégulières, de produits plutôt rares avec peu de transactions redondantes "
